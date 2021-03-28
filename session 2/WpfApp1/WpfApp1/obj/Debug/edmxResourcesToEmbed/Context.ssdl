@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DbContext" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="apartments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Address_City" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Street" Type="varchar" MaxLength="50" />
+    <Property Name="Address_House" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Number" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_latitude" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_longitude" Type="varchar" MaxLength="50" />
+    <Property Name="TotalArea" Type="varchar" MaxLength="50" />
+    <Property Name="Rooms" Type="varchar" MaxLength="50" />
+    <Property Name="Floor" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="districts">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="area" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="houses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Address_City" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Street" Type="varchar" MaxLength="50" />
+    <Property Name="Address_House" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Number" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_latitude" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_longitude" Type="varchar" MaxLength="50" />
+    <Property Name="TotalFloors" Type="varchar" MaxLength="50" />
+    <Property Name="TotalArea" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="lands">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Address_City" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Street" Type="varchar" MaxLength="50" />
+    <Property Name="Address_House" Type="varchar" MaxLength="50" />
+    <Property Name="Address_Number" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_latitude" Type="varchar" MaxLength="50" />
+    <Property Name="Coordinate_longitude" Type="varchar" MaxLength="50" />
+    <Property Name="TotalArea" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Хранилище DbContextContainer">
+    <EntitySet Name="apartments" EntityType="Self.apartments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="districts" EntityType="Self.districts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="houses" EntityType="Self.houses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="lands" EntityType="Self.lands" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

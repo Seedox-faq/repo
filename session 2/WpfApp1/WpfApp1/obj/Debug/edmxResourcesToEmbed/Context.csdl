@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbContext" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="apartment">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Address_City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Street" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_House" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Number" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_latitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_longitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalArea" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Rooms" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Floor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="district">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="area" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="house">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Address_City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Street" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_House" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Number" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_latitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_longitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalFloors" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalArea" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="land">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Address_City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Street" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_House" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Address_Number" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_latitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Coordinate_longitude" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalArea" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="apartments" EntityType="Self.apartment" />
+    <EntitySet Name="districts" EntityType="Self.district" />
+    <EntitySet Name="houses" EntityType="Self.house" />
+    <EntitySet Name="lands" EntityType="Self.land" />
+  </EntityContainer>
+</Schema>

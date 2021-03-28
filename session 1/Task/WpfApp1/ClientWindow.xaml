@@ -1,0 +1,187 @@
+﻿<Window x:Class="WpfApp1.ClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="ClientWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="client" Margin="0,10,284,341" VerticalAlignment="Center" Width="158" Height="68" FontFamily="Stencil" FontSize="36" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Delete" Margin="0,58,608,293" VerticalAlignment="Center" Width="158" Height="68" FontFamily="Stencil" FontSize="36" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Create" Margin="0,58,302,293" VerticalAlignment="Center" Width="158" Height="68" FontFamily="Stencil" FontSize="36" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Update" Margin="0,58,24,293" VerticalAlignment="Center" Width="158" Height="68" FontFamily="Stencil" FontSize="36" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="id" Margin="0,119,736,270" VerticalAlignment="Center" Width="30" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="81,172,0,0" VerticalAlignment="Top" Width="75" Background="#FFFFFDFD" FontSize="14" Click="Delete" x:Name="DeleteB"/>
+        <Label Content="FirstName" Margin="0,119,442,270" VerticalAlignment="Center" Width="104" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="MiddleName" Margin="0,154,442,235" VerticalAlignment="Center" Width="117" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="LastName" Margin="0,189,442,200" VerticalAlignment="Center" Width="95" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Phone" Margin="0,224,442,165" VerticalAlignment="Center" Width="69" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="350,310,0,0" VerticalAlignment="Top" Width="75" Background="#FFFFFDFD" FontSize="14" Click="Create" x:Name="CreateB"/>
+        <Label Content="FirstName" Margin="0,152,114,237" VerticalAlignment="Center" Width="104" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="MiddleName" Margin="0,187,114,202" VerticalAlignment="Center" Width="117" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="LastName" Margin="0,222,114,167" VerticalAlignment="Center" Width="95" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="phone" Margin="0,257,114,132" VerticalAlignment="Center" Width="68" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="677,339,0,0" VerticalAlignment="Top" Width="75" Background="#FFFFFDFD" FontSize="14" Click="Update" x:Name="UpdateB"/>
+        <Label Content="id" Margin="0,119,118,270" VerticalAlignment="Center" Width="30" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="81,123,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="86" FontSize="14" FontWeight="Bold" x:Name="DeleteId"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="371,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" FontSize="14" FontWeight="Bold" x:Name="FN"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="371,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" FontSize="14" FontWeight="Bold" x:Name="MN"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="371,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" FontSize="14" FontWeight="Bold" x:Name="LN"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="371,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" FontSize="14" FontWeight="Bold" x:Name="Ph"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,123,0,0" TextWrapping="Wrap" Text="Number" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="UpdateId"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="FNUpdate"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="MNUpdate"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="LNUpdate"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="PhUpdate"/>
+        <Label Content="Email" Margin="0,257,442,132" VerticalAlignment="Center" Width="58" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="371,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" FontSize="14" FontWeight="Bold" x:Name="Em"/>
+        <Label Content="email" Margin="0,290,114,99" VerticalAlignment="Center" Width="64" Height="30" FontFamily="Stencil" FontWeight="ExtraBlack" RenderTransformOrigin="9.04,1.053" HorizontalAlignment="Right" FontSize="16">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="693,294,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="89" FontSize="14" FontWeight="Bold" x:Name="EmUpdate"/>
+
+    </Grid>
+</Window>

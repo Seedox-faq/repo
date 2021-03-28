@@ -1,0 +1,73 @@
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\AgentWindow.g.cs
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\AgentWindow.baml
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\ClientWindow.g.cs
+C:\Users\Admin\Task01.03.21\Task\WpfApp1\obj\Debug\ClientWindow.baml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\AgentWindow.g.cs
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\ClientWindow.g.cs
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\Main.g.cs
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\AgentWindow.baml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\ClientWindow.baml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\Main.baml
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Task01.03.21\Task 01.03.21\Task\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\AgentWindow.g.cs
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\ClientWindow.g.cs
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\Main.g.cs
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\AgentWindow.baml
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\ClientWindow.baml
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\Main.baml
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Seedox\Desktop\Task01.03.21-main\Task\WpfApp1\obj\Debug\WpfApp1.pdb
